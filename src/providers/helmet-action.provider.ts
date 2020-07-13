@@ -22,7 +22,7 @@ export class HelmetActionProvider implements Provider<HelmetAction> {
 
   async action(request: Request, response: Response): Promise<void> {
     const promise = new Promise((resolve, reject) => {
-      helmet.default(this.config)(request, response, err => {
+      helmet.default(this.config)(request, response, (err) => {
         if (err) {
           reject(err);
         }
