@@ -9,6 +9,12 @@ Install the following extensions:
 
 - [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
+## Setup Commit Hooks
+
+Run the following script to prepare husky after the first time install -
+
+`npm run prepare`
+
 ## Development workflow
 
 ### Visual Studio Code
