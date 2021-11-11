@@ -47,7 +47,7 @@
     "@loopback/boot": "^3.4.0",
     "@loopback/context": "^3.16.0",
     "@loopback/core": "^2.16.0",
-    "@loopback/rest": "^9.3.0",
+    "@loopback/rest": "^9.3.1",
     "helmet": "^3.23.3",
     "nyc": "^15.1.0"
   },
