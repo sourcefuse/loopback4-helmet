@@ -13,7 +13,7 @@ export class HelmetActionProvider implements Provider<HelmetAction> {
     @inject(HelmetSecurityBindings.CONFIG, {
       optional: true,
     })
-    private readonly config?: helmet.IHelmetConfiguration,
+    private readonly config?: helmet.HelmetOptions,
   ) {}
 
   value(): HelmetAction {
@@ -22,7 +22,7 @@ export class HelmetActionProvider implements Provider<HelmetAction> {
 
   async action(request: Request, response: Response): Promise<void> {
     const promise = new Promise<void>((resolve, reject) => {
-      helmet.default(this.config)(request, response, (err: Object) => {
+      helmet.default(this.config)(request, response, (err: unknown) => {
         if (err) {
           reject(err);
         }
