@@ -1,11 +1,11 @@
-import {IHelmetConfiguration} from 'helmet';
+import {HelmetOptions} from 'helmet';
 import {HelmetActionProvider} from '../../providers';
 import {expect, stubExpressContext} from '@loopback/testlab';
 
 describe('Helmet Service', () => {
   describe('Helmet Provider', () => {
     it('returns a promise after success', async () => {
-      const config: IHelmetConfiguration = {
+      const config: HelmetOptions = {
         referrerPolicy: {
           policy: 'same-origin',
         },
