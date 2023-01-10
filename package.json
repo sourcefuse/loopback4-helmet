@@ -73,15 +73,22 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-eslint-plugin": "^5.0.7",
     "eslint-plugin-mocha": "^10.1.0",
+    "git-release-notes": "^5.0.0",
     "husky": "^7.0.4",
+    "jsdom": "^21.0.0",
     "nyc": "^15.1.0",
     "semantic-release": "^19.0.3",
+    "simple-git": "^3.15.1",
     "source-map-support": "^0.5.21",
     "typescript": "~4.9.4"
   },
   "overrides": {
     "publishConfig": {
       "registry": "https://registry.npmjs.org/"
+    },
+    "git-release-notes": {
+      "ejs": "^3.1.8",
+      "yargs": "^17.6.2"
     }
   },
   "config": {
@@ -108,7 +115,6 @@
         }
       ],
       "@semantic-release/release-notes-generator",
-      "@semantic-release/changelog",
       "@semantic-release/npm",
       [
         "@semantic-release/git",
