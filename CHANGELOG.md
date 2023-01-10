@@ -1,14 +1,3 @@
-## Release [v4.1.4](https://github.com/sourcefuse/loopback4-helmet/compare/v4.1.3..v4.1.4) January 10, 2023
-Welcome to the January 10, 2023 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
-
-  - [Loopback version update](https://github.com/sourcefuse/loopback4-helmet/issues/54) :- [chore(deps): loopback version update ](https://github.com/sourcefuse/loopback4-helmet/commit/91f08d28677963ed1840b0de1e837707b5f41dfb) was commited on December 5, 2022 by [yeshamavani](mailto:83634146+yeshamavani@users.noreply.github.com)
-    
-      - GH-54
-      
-  
-Clink on the above links to understand the changes in detail.
-  ___
-
 ## [4.1.4](https://github.com/sourcefuse/loopback4-helmet/compare/v4.1.3...v4.1.4) (2022-12-05)
 
 ## [4.1.3](https://github.com/sourcefuse/loopback4-helmet/compare/v4.1.2...v4.1.3) (2022-10-31)
@@ -19,12 +8,10 @@ Clink on the above links to understand the changes in detail.
 
 # [4.1.0](https://github.com/sourcefuse/loopback4-helmet/compare/v4.0.2...v4.1.0) (2022-05-26)
 
-
 ### Bug Fixes
 
-* **deps:** remove vulnerabilities ([#37](https://github.com/sourcefuse/loopback4-helmet/issues/37)) ([747aae1](https://github.com/sourcefuse/loopback4-helmet/commit/747aae120e03bd26e373542fb69009bebb049583)), closes [#36](https://github.com/sourcefuse/loopback4-helmet/issues/36) [#36](https://github.com/sourcefuse/loopback4-helmet/issues/36)
-
+- **deps:** remove vulnerabilities ([#37](https://github.com/sourcefuse/loopback4-helmet/issues/37)) ([747aae1](https://github.com/sourcefuse/loopback4-helmet/commit/747aae120e03bd26e373542fb69009bebb049583)), closes [#36](https://github.com/sourcefuse/loopback4-helmet/issues/36) [#36](https://github.com/sourcefuse/loopback4-helmet/issues/36)
 
 ### Features
 
-* **ci-cd:** semantic-release ([#23](https://github.com/sourcefuse/loopback4-helmet/issues/23)) ([2a291bd](https://github.com/sourcefuse/loopback4-helmet/commit/2a291bdbc6e2cfec5e92ba04a262cf0b3580824e)), closes [#22](https://github.com/sourcefuse/loopback4-helmet/issues/22) [#22](https://github.com/sourcefuse/loopback4-helmet/issues/22)
+- **ci-cd:** semantic-release ([#23](https://github.com/sourcefuse/loopback4-helmet/issues/23)) ([2a291bd](https://github.com/sourcefuse/loopback4-helmet/commit/2a291bdbc6e2cfec5e92ba04a262cf0b3580824e)), closes [#22](https://github.com/sourcefuse/loopback4-helmet/issues/22) [#22](https://github.com/sourcefuse/loopback4-helmet/issues/22)
