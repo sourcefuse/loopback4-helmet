@@ -1,3 +1,31 @@
+## Release [v4.2.1](https://github.com/sourcefuse/loopback4-helmet/compare/v4.2.0..v4.2.1) February 20, 2023
+Welcome to the February 20, 2023 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
+
+  - [Correct the changelog Format](https://github.com/sourcefuse/loopback4-helmet/issues/68) :- [fix(chore): correct the changelog format ](https://github.com/sourcefuse/loopback4-helmet/commit/d71c98af22b484487d24e254d4428e70b5b0f12e) was commited on February 20, 2023 by [yeshamavani](mailto:83634146+yeshamavani@users.noreply.github.com)
+    
+      - * fix(chore): correct the changelog format
+      
+      -  now issue description will be visible
+      
+      -  GH-68
+      
+      - * chore(deps): upgrading the packages version
+      
+      -  upgraded helmet and cookiejar
+      
+      -  GH-68
+      
+  
+  - [Package Update : loopback4-helmet](https://github.com/sourcefuse/loopback4-helmet/issues/66) :- [fix(chore): remove all current vulnerability of loopback4-helmet ](https://github.com/sourcefuse/loopback4-helmet/commit/17d4b8deb030b574838a1b30e14dacdc401d85c0) was commited on February 20, 2023 by [Sunny Tyagi](mailto:107617248+Tyagi-Sunny@users.noreply.github.com)
+    
+      - remove all current vulnerability of loopback4-helmet
+      
+      -  GH-66
+      
+  
+Clink on the above links to understand the changes in detail.
+  ___
+
 ## Release [v4.2.0](https://github.com/sourcefuse/loopback4-helmet/compare/v4.1.4..v4.2.0) January 11, 2023
 Welcome to the January 11, 2023 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
 
