@@ -1,3 +1,23 @@
+## Release [v4.2.2](https://github.com/sourcefuse/loopback4-helmet/compare/v4.2.1..v4.2.2) March 10, 2023
+Welcome to the March 10, 2023 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
+
+  - [loopback version update](https://github.com/sourcefuse/loopback4-helmet/issues/72) :- [chore(deps): loopback version update ](https://github.com/sourcefuse/loopback4-helmet/commit/c5fe04eeb0490f16a0e30f94de1bd64d3b2a14dd) was commited on March 10, 2023 by [Gautam Agarwal](mailto:108651274+gautam23-sf@users.noreply.github.com)
+    
+      - loopback version update
+      
+      -  GH-72
+      
+  
+  - [Stale Bot missing in the repository](https://github.com/sourcefuse/loopback4-helmet/issues/70) :- [chore(chore): add github stale bot ](https://github.com/sourcefuse/loopback4-helmet/commit/f37999430b81bb020121bd172bff005d40adfdda) was commited on February 27, 2023 by [yeshamavani](mailto:83634146+yeshamavani@users.noreply.github.com)
+    
+      - Added stale.yml file to configure stale options
+      
+      -  GH-70
+      
+  
+Clink on the above links to understand the changes in detail.
+  ___
+
 ## Release [v4.2.1](https://github.com/sourcefuse/loopback4-helmet/compare/v4.2.0..v4.2.1) February 20, 2023
 Welcome to the February 20, 2023 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
 
