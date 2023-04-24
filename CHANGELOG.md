@@ -1,3 +1,16 @@
+## Release [v4.2.3](https://github.com/sourcefuse/loopback4-helmet/compare/v4.2.2..v4.2.3) April 24, 2023
+Welcome to the April 24, 2023 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
+
+  - [Loopback version update](https://github.com/sourcefuse/loopback4-helmet/issues/74) :- [chore(deps): loopback version update ](https://github.com/sourcefuse/loopback4-helmet/commit/d3a05df9dde950bb974441d24294e4fe79280766) was commited on April 24, 2023 by [RaghavaroraSF](mailto:97958393+RaghavaroraSF@users.noreply.github.com)
+    
+      - loopback version update
+      
+      -  GH-74
+      
+  
+Clink on the above links to understand the changes in detail.
+  ___
+
 ## Release [v4.2.2](https://github.com/sourcefuse/loopback4-helmet/compare/v4.2.1..v4.2.2) March 10, 2023
 Welcome to the March 10, 2023 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
 
