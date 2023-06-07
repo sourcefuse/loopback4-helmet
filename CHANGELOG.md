@@ -1,3 +1,34 @@
+## Release [v5.0.0](https://github.com/sourcefuse/loopback4-helmet/compare/v4.2.3..v5.0.0) June 7, 2023
+Welcome to the June 7, 2023 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
+
+  - [Loopback version update](https://github.com/sourcefuse/loopback4-helmet/issues/74) :- [chore(deps): loopback version update ](https://github.com/sourcefuse/loopback4-helmet/commit/b971cdd908d8167f2c8269ff9747bb82d8ed8b2d) was commited on May 19, 2023 by [RaghavaroraSF](mailto:97958393+RaghavaroraSF@users.noreply.github.com)
+    
+      - loopback version update
+      
+      -  GH-74
+      
+  
+  - [Remove support for node v14](https://github.com/sourcefuse/loopback4-helmet/issues/78) :- [feat(chore): remove support for node v14,v12,v10 ](https://github.com/sourcefuse/loopback4-helmet/commit/1fee84f271d5789346219573698fdf74bc5254aa) was commited on May 11, 2023 by [RaghavaroraSF](mailto:97958393+RaghavaroraSF@users.noreply.github.com)
+    
+      - version 14, v12, v10, v8 of Nodejs reached its end of life
+      
+      -  BREAKING CHANGE:
+      
+      - End of life of node v14, node v12, node v10 and node v8
+      
+      -  GH-78
+      
+  
+  - [License and Copyright Headers’ Year Upgradation](https://github.com/sourcefuse/loopback4-helmet/issues/76) :- [chore(maintenance): update license and copyright headers ](https://github.com/sourcefuse/loopback4-helmet/commit/d3b129bacc238f45e34258819de55e4b92fc96b6) was commited on May 4, 2023 by [RaghavaroraSF](mailto:97958393+RaghavaroraSF@users.noreply.github.com)
+    
+      - to reflect the year change
+      
+      -  GH-76
+      
+  
+Clink on the above links to understand the changes in detail.
+  ___
+
 ## Release [v4.2.3](https://github.com/sourcefuse/loopback4-helmet/compare/v4.2.2..v4.2.3) April 24, 2023
 Welcome to the April 24, 2023 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
 
