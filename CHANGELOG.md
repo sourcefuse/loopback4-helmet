@@ -1,3 +1,23 @@
+## Release [v5.0.1](https://github.com/sourcefuse/loopback4-helmet/compare/v5.0.0..v5.0.1) July 14, 2023
+Welcome to the July 14, 2023 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
+
+  - [Add ARC Branding in README](https://github.com/sourcefuse/loopback4-helmet/issues/83) :- [docs(chore): add arc branding ](https://github.com/sourcefuse/loopback4-helmet/commit/44d9c9ece0c7d0c262fd3a4f740155d935810713) was commited on July 14, 2023 by [Surbhi](mailto:98279679+Surbhi-sharma1@users.noreply.github.com)
+    
+      - add arc branding
+      
+      -  GH-83
+      
+  
+  - [Loopback version update](https://github.com/sourcefuse/loopback4-helmet/issues/74) :- [chore(deps): loopback version update ](https://github.com/sourcefuse/loopback4-helmet/commit/32de510779a7db3fc1962e4529f469d4fd3a765c) was commited on July 14, 2023 by [Surbhi](mailto:98279679+Surbhi-sharma1@users.noreply.github.com)
+    
+      - loopback version update
+      
+      -  GH-74
+      
+  
+Clink on the above links to understand the changes in detail.
+  ___
+
 ## Release [v5.0.0](https://github.com/sourcefuse/loopback4-helmet/compare/v4.2.3..v5.0.0) June 7, 2023
 Welcome to the June 7, 2023 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
 
