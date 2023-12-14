@@ -4,6 +4,7 @@ metadata:
   name: loopback4-helmet
   annotations:
     github.com/project-slug: sourcefuse/loopback4-helmet
+    backstage.io/techdocs-ref: dir:.
   namespace: arc
   description: LoopBack 4 extension for helmetjs integration.
   tags:
