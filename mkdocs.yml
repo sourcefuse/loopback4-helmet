@@ -1,0 +1,6 @@
+site_name: loopback4-helmet
+site_description: loopback4-helmet
+
+
+plugins:
+  - techdocs-core
