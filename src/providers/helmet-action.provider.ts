@@ -1,7 +1,6 @@
 import {inject, Provider} from '@loopback/core';
 import {Request, Response} from '@loopback/rest';
 import * as helmet from 'helmet';
-
 import {HelmetSecurityBindings} from '../keys';
 
 export interface HelmetAction {
