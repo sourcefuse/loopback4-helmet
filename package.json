@@ -47,7 +47,7 @@
     "@loopback/boot": "^7.0.0",
     "@loopback/context": "^7.0.0",
     "@loopback/core": "^6.0.0",
-    "@loopback/rest": "^14.0.0",
+    "@loopback/rest": "^14.0.1",
     "helmet": "^5.1.1"
   },
   "devDependencies": {
