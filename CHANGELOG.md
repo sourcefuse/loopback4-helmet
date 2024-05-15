@@ -1,3 +1,23 @@
+## Release [v7.0.1](https://github.com/sourcefuse/loopback4-helmet/compare/v7.0.0..v7.0.1) May 15, 2024
+Welcome to the May 15, 2024 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
+
+  - [Changelog not generated](https://github.com/sourcefuse/loopback4-helmet/issues/118) :- [fix(ci-cd): add the step to generate changelog ](https://github.com/sourcefuse/loopback4-helmet/commit/284497291c7d2907d4162d5380096cff43200194) was commited on May 15, 2024 by [yeshamavani](mailto:83634146+yeshamavani@users.noreply.github.com)
+    
+      - add the missing ci checks for pr
+      
+      -  GH-118
+      
+  
+  - [Copy the Readme to root as well](https://github.com/sourcefuse/loopback4-helmet/issues/116) :- [docs(chore): copy the Readme to root as well ](https://github.com/sourcefuse/loopback4-helmet/commit/a4f4883b0569f8c4f28170a3a5ec278a999ab018) was commited on May 13, 2024 by [arpit1503khanna](mailto:108673359+arpit1503khanna@users.noreply.github.com)
+    
+      - copy the Readme to root as well
+      
+      -  GH-116
+      
+  
+Clink on the above links to understand the changes in detail.
+  ___
+
 ## Release [v5.0.1](https://github.com/sourcefuse/loopback4-helmet/compare/v5.0.0..v5.0.1) July 14, 2023
 Welcome to the July 14, 2023 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
 
