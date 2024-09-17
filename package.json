@@ -44,9 +44,9 @@
     "!*/__tests__"
   ],
   "dependencies": {
-    "@loopback/boot": "^7.0.2",
-    "@loopback/context": "^7.0.2",
-    "@loopback/core": "^6.0.2",
+    "@loopback/boot": "^7.0.5",
+    "@loopback/context": "^7.0.5",
+    "@loopback/core": "^6.1.2",
     "@loopback/rest": "^14.0.2",
     "helmet": "^5.1.1"
   },
