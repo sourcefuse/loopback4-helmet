@@ -9,9 +9,6 @@
 <a href="https://sonarcloud.io/summary/new_code?id=sourcefuse_loopback4-helmet" target="_blank">
 <img alt="Sonar Quality Gate" src="https://img.shields.io/sonar/quality_gate/sourcefuse_loopback4-helmet?server=https%3A%2F%2Fsonarcloud.io">
 </a>
-<a href="https://app.snyk.io/org/ashishkaushik/reporting?context[page]=issues-detail&project_target=%255B%2522sourcefuse%252Floopback4-helmet%2522%255D&project_origin=%255B%2522github%2522%255D&issue_status=%255B%2522Open%2522%255D&issue_by=Severity&table_issues_detail_cols=SCORE%257CCVE%257CCWE%257CPROJECT%257CEXPLOIT%2520MATURITY%257CAUTO%2520FIXABLE%257CINTRODUCED%257CSNYK%2520PRODUCT&v=1">
-<img alt="Synk Status" src="https://img.shields.io/badge/SYNK_SECURITY-MONITORED-GREEN">
-</a>
 <a href="https://github.com/sourcefuse/loopback4-helmet/graphs/contributors" target="_blank">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sourcefuse/loopback4-helmet">
 </a>
@@ -100,7 +97,7 @@ export class MySequence implements SequenceHandler {
 
 If you've noticed a bug or have a question or have a feature request, [search the issue tracker](https://github.com/sourcefuse/loopback4-helmet/issues) to see if someone else in the community has already created a ticket.
 If not, go ahead and [make one](https://github.com/sourcefuse/loopback4-helmet/issues/new/choose)!
-All feature requests are welcome. Implementation time may vary. Feel free to contribute the same, if you can.
+All feature requests are welcome. Implementation time may vary. Feel free to contribute to the same, if you can.
 If you think this extension is useful, please [star](https://help.github.com/en/articles/about-stars) it. Appreciation really helps in keeping this project alive.
 
 ## Contributing
