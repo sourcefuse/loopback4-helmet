@@ -1,3 +1,60 @@
+## Release [v8.1.0](https://github.com/sourcefuse/loopback4-helmet/compare/v8.0.0..v8.1.0) April 20, 2026
+Welcome to the April 20, 2026 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
+
+  - [](https://github.com/sourcefuse/loopback4-helmet/issues/) :- [chore(deps): resolving package release issues ](https://github.com/sourcefuse/loopback4-helmet/commit/fbd6cdf89b16a9930d0e7d5e494a3b1fc11f8664) was commited on April 20, 2026 by [Vinay Gupta](mailto:vinay.gupta@sourcefuse.com)
+    
+  
+  - [](https://github.com/sourcefuse/loopback4-helmet/issues/) :- [chore(deps): upgrade dependencies and resolve compatibility issues ](https://github.com/sourcefuse/loopback4-helmet/commit/6c07a5d11c894a8c01c23ed803da82492b2b6ce2) was commited on April 20, 2026 by [Sourav](mailto:sourav.kashyap@sourcefuse.com)
+    
+      - * chore(deps): upgrade dependencies and resolve compatibility issues
+      
+      - * chore(deps): upgraded to latest dependencies, comment resolved
+      
+      - * chore(ci-cd): Modify npm ci command to ignore scripts
+      
+      - * chore(ci-cd): Change npm install to npm ci in release workflow
+      
+      - ---------
+      
+      - Co-authored-by: Vinay Gupta &lt;vinay.gupta@sourcefuse.com&gt; Co-authored-by:
+      
+      - yeshamavani &lt;83634146+yeshamavani@users.noreply.github.com&gt;
+      
+  
+  - [](https://github.com/sourcefuse/loopback4-helmet/issues/) :- [refactor(chore): fix audit vulnerability ](https://github.com/sourcefuse/loopback4-helmet/commit/9deb8a68a3ed6ec8d4c5074bf348b217145e2550) was commited on December 16, 2025 by [Piyush Singh Gaur](mailto:piyush.singh@sourcefuse.com)
+    
+      - Co-authored-by: Piyush Singh Gaur &lt;piyush.singh@Piyush-SFIN1664.local&gt;
+      
+  
+  - [](https://github.com/sourcefuse/loopback4-helmet/issues/) :- [feat(ci-cd): add trivy scan ](https://github.com/sourcefuse/loopback4-helmet/commit/270207b68f24c6e2626f9e5d6ccbbd1a221f41c5) was commited on October 27, 2025 by [Vaibhav Bhalla](mailto:vaibhav.bhalla@sourcefuse.com)
+    
+      - * feat(ci-cd): add trivy scan
+      
+      - add trivy scan instead of synk
+      
+      - GH-150
+      
+      - * chore(docs): update readme
+      
+      - Corrected phrasing in the feedback section.
+      
+      - ---------
+      
+      - Co-authored-by: Vaibhav  Bhalla &lt;vaibhav.bhalla@SFSupports-MacBook-Air.local&gt; 
+      
+      - Co-authored-by: yeshamavani &lt;83634146+yeshamavani@users.noreply.github.com&gt;
+      
+  
+  - [](https://github.com/sourcefuse/loopback4-helmet/issues/152) :- [chore(ci-cd): trusted publishing using oidc ](https://github.com/sourcefuse/loopback4-helmet/commit/79857ec428003065d4fe21bf3617e7850cc3ec97) was commited on October 27, 2025 by [yeshamavani](mailto:83634146+yeshamavani@users.noreply.github.com)
+    
+      - update package json and workflow
+      
+      - GH-152
+      
+  
+Clink on the above links to understand the changes in detail.
+  ___
+
 ## Release [v8.0.0](https://github.com/sourcefuse/loopback4-helmet/compare/v7.0.3..v8.0.0) September 8, 2025
 Welcome to the September 8, 2025 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
 
