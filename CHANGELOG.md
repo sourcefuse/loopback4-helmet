@@ -1,3 +1,16 @@
+## Release [v9.0.1](https://github.com/sourcefuse/loopback4-helmet/compare/v9.0.0..v9.0.1) August 11, 2026
+Welcome to the August 11, 2026 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
+
+  - [](https://github.com/sourcefuse/loopback4-helmet/issues/162) :- [chore(deps): upgrade undici fixing five security advisories ](https://github.com/sourcefuse/loopback4-helmet/commit/37b28fc28d8e08d41d84fbcefcd16b633eda6263) was commited on August 11, 2026 by [Piyush Singh Gaur](mailto:piyush.singh@sourcefuse.com)
+    
+      - upgrade undici fixing five security advisories
+      
+      - GH-162
+      
+  
+Clink on the above links to understand the changes in detail.
+  ___
+
 ## Release [v9.0.0](https://github.com/sourcefuse/loopback4-helmet/compare/v8.1.0..v9.0.0) June 16, 2026
 Welcome to the June 16, 2026 release of loopback4-helmet. There are many updates in this version that we hope you will like, the key highlights include:
 
